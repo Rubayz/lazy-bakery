@@ -1,0 +1,48 @@
+.first-color {
+    color: rebeccapurple;
+    margin: 10px;
+}
+p {
+    color: dimgray;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.aboutus-area {
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url("bg/latest-work-bg.png");
+}
+.aboutCEO {
+    padding: 10px;
+    background-image: url("bg/biography-bg.png");
+}
+.cool {
+    float: right;
+    position: relative;
+}
+.card-img-top {
+    padding: 10px;
+    border-radius: 10px;
+}
+.card-deck {
+    box-shadow: 5px 10px 10px #888888;
+    border: none;
+}
+.border {
+    margin-top: 100px;
+    min-width: 500px;
+    height: 200px;
+    background-image: linear-gradient(45deg, deeppink, pink);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 10px 10px pink;
+}
+.header-area {
+    background-image: url("bg/header-bg.png");
+}
+.popular-items {
+    background-image: url("bg/footer-bg.png");
+}
+.contactus {
+   background-image: url("bg/header-bg.png;")
+}
