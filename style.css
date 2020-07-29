@@ -46,15 +46,28 @@ body {
     background-image: url("bg/footer-bg.png");
 }
 .contactus {
-   background-image: url("bg/header-bg.png;")
+   background-image: url("bg/header-bg.png;");
+   
 }
 .border-construction {
     width: 1000px;
-    height: 300px;
+    height: 350px;
     background-image: linear-gradient(45deg, aqua, aquamarine);
     border-radius: 10px;
-    
+    padding-left: 50px;
+    padding-top: 10px;
 }
 .border-construction:hover {
     box-shadow: 5px 10px 10px cyan;
+}
+.menu-list {
+    background-image: url("bg/footer-bg.png");
+}
+table, th, td {
+    border: 3px dashed purple;
+    color: rebeccapurple;
+}
+.button:hover {
+    width: 150px;
+    color: white;
 }
