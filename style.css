@@ -24,7 +24,7 @@ body {
     padding: 10px;
     border-radius: 10px;
 }
-.card:hover {
+.card {
     box-shadow: 5px 10px 10px #888888;
     border: none;
 }
@@ -47,16 +47,18 @@ body {
 }
 .contactus {
    background-image: url("bg/header-bg.png;");
-   
 }
-table:hover {
+table {
     box-shadow: 5px 10px 10px #888888;
 }
 .menu-list {
     background-image: url("bg/footer-bg.png");
 }
+.bd {
+    box-shadow: 5px 10px 10px lightgray;
+}
 
-.button:hover {
-    width: 150px;
-    color: white;
+.lathi img {
+    justify-content: center;
+    float: right;
 }
