@@ -61,4 +61,9 @@ table {
 .lathi img {
     justify-content: center;
     float: right;
+    margin-top: 50px;
+}
+.watchvideo {
+    background-image: url("bg/exp-bg.png");
+    background-repeat: no-repeat;
 }
